@@ -5,7 +5,7 @@ info:
 servers:
   - url: http://localhost:3000
     description: Local development server
-  - url: https://itis-4166-task-api-service.onrender.com/tasks
+  - url: https://itis-4166-task-api-service.onrender.com
     description: Production server
 tags:
   - name: Tasks
